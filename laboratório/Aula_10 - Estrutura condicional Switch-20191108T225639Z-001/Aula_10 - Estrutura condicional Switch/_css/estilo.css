@@ -1,0 +1,57 @@
+@charset "UTF-8"; /*sem o ponto e vígula no final da sintax*/
+
+body {
+	background-color: #1C1C1C;
+	width: 1250px;
+	height: 800px;
+}
+div#faixa_superior {
+	background-color:#6A5ACD ;
+	width: 1350px;
+	height: 125px;
+	top: 0;
+	right: 0;
+	margin-left: -10px;
+
+}
+
+div#faixa_superior h1 {
+	background-color: #4F4F4F;
+	text-align: left;
+	color: #CFCFCF;
+	font-size: 25pt;
+	text-align: right;
+	padding: 15px;
+	margin: -17px 0px 0px 0px;
+}
+
+div#php_corpo {
+	color: white;
+	font-size: 20pt;
+	
+}
+
+.field {
+	align: center;
+	width: 1277px;
+}
+hr {
+	width: 1320px;
+	height: 30px;
+	background-color: #4F4F4F;
+}
+
+
+div#topo {
+	width: 200px;
+	height: 85px;
+	background-color: #4F4F4F;
+	position: absolute;
+	margin-top: 15px;
+}
+
+
+
+
+
+

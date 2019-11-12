@@ -5,3 +5,8 @@ body {
 a {
 	color: white;
 }
+
+p {
+	font-size: 15pt;
+	font-family: arial;
+}
